@@ -2,6 +2,7 @@
 
 export(min_max)
 export(multi_tres)
+export(promedio)
 export(suma)
 export(suma_tres)
 importFrom(stats,rnorm)
