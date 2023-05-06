@@ -4,6 +4,8 @@
 # mipaq
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/fhernanb/mipaq/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/fhernanb/mipaq/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of mipaq is to …
